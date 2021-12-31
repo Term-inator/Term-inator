@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-![Metrics](https://github.com/Term-inator/Term-inator/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Term-inator/Term-inator/blob/main/assets/github-metrics.svg)
 
 
 ## ✨ About Me
