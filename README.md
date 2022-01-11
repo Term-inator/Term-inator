@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Term-inator&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Term-inator)
+[<img src="https://api.githubtrends.io/user/svg/Term-inator/langs?time_range=one_year&include_private=false&theme=classic" alt="Most Used Languages" width="300" />](https://www.githubtrends.io)
+[<img src="https://api.githubtrends.io/user/svg/Term-inator/repos?time_range=one_year&theme=classic" alt="Most Contributed Repositories" width="300" />](https://www.githubtrends.io)
