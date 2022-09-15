@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Term-inator&no-frame=true&column=4&margin-w=36&margin-h=12)
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Term-inator&show_icons=true)
+-->
 
 [<img src="https://api.githubtrends.io/user/svg/Term-inator/langs?time_range=one_year&include_private=false&theme=classic" alt="Most Used Languages" width="300" />](https://www.githubtrends.io)
 [<img src="https://api.githubtrends.io/user/svg/Term-inator/repos?time_range=one_year&theme=classic" alt="Most Contributed Repositories" width="300" />](https://www.githubtrends.io)
