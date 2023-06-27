@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ![Metrics](https://github.com/Term-inator/Term-inator/blob/main/assets/github-metrics.svg)
 
 ## 🕶 Stats
-
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=Term-inator&no-frame=true&column=4&margin-w=36&margin-h=12)
-
+-->
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Term-inator&show_icons=true)
 -->
