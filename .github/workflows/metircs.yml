@@ -14,9 +14,12 @@ jobs:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
+          filename: assets/github-metrics.*
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # ... other options
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
-          filename: assets/github-metrics.*
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
