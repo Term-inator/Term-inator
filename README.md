@@ -1,6 +1,6 @@
+<!--
 # Hi there 👋
 
-<!--
 **Term-inator/Term-inator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,15 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ About
-**Major: Software Engineering @ ECNU**\
-[<b style="font-size: 10px;">Click here to check my blog!</b>](https://term-inator.github.io/)
+<div align="center">
+  
+# Hi~👋 Sicong Chen Here
 
-![Metrics](https://github.com/Term-inator/Term-inator/blob/main/assets/github-metrics.svg)
+ 🧑‍🎓 *BEng, Software Engineering* @ **East China Normal University**   
+ 🚀 *Incoming Computational Science and Engineering Master Student* @ **Rice University**  
+ 🤩 [<b style="font-size: 10px;">Click here to check my blog!</b>](https://term-inator.github.io/)
+</div>
 
 ## 🕶 Stats
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2"><img src="https://github.com/Term-inator/Term-inator/blob/main/assets/general.svg" /></td>
+      <td><img src="https://streak-stats.demolab.com?user=Term-inator&theme=vue&hide_border=true" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Term-inator/Term-inator/blob/main/assets/isocalendar.svg" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Term-inator/Term-inator/blob/main/assets/languages.svg" /></td>
+      <td><img src="https://github.com/Term-inator/Term-inator/blob/main/assets/wakatime.svg" /></td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
-![trophy](https://github-profile-trophy.vercel.app/?username=Term-inator&no-frame=true&column=4&margin-w=36&margin-h=12)
+![trophy](https://github-profile-trophy.vercel.app/?username=Term-inator&no-frame=true&row=2&column=4&margin-w=36&margin-h=12)
 -->
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Term-inator&show_icons=true)
@@ -32,7 +51,6 @@ Here are some ideas to get you started:
 [<img src="https://api.githubtrends.io/user/svg/Term-inator/langs?time_range=one_year&include_private=false&theme=classic" alt="Most Used Languages" width="300" />](https://www.githubtrends.io)
 [<img src="https://api.githubtrends.io/user/svg/Term-inator/repos?time_range=one_year&theme=classic" alt="Most Contributed Repositories" width="300" />](https://www.githubtrends.io)
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Term-inator&theme=vue&hide_border=true)](https://git.io/streak-stats)
 
 ## :page_facing_up: Languages
 
