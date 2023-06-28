@@ -19,12 +19,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # ... other options
           template: classic
-          base: header, activity, community, repositories, metadata
-          
-          plugin_lines: yes
-          plugin_lines_history_limit: 1 # Years to display. Will display the last n years, relative to current year
-          plugin_lines_repositories_limit: 5 # Display limit
-          plugin_lines_sections: repositories
+          base: activity, repositories
+          base_indepth: yes
+          config_order: base.activity, base.repositories, isocalendar, languages, wakatime
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
