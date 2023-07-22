@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # ... other options
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, community, repositories
           base_indepth: yes
         
       - name: Isocalendar
