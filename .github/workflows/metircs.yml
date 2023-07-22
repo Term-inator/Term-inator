@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (each day)
   schedule:
     - cron: "0 0 * * *"
   # Lines below let you run workflow manually and on each commit (optional)
@@ -12,7 +12,8 @@ jobs:
     steps:
       # See action.yml for all options
       - name: General
-        uses: lowlighter/metrics@latest
+        # uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.28
         with:
           filename: assets/general.svg
           # Your GitHub token
