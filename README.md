@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   
 # Hi~👋 Sicong Chen Here
 
+ 🚀 *Master of Computational Science and Engineering Student* @ **Rice University**  
  🧑‍🎓 *BEng, Software Engineering* @ **East China Normal University**   
- 🚀 *Incoming Computational Science and Engineering Master Student* @ **Rice University**  
  🤩 [<b style="font-size: 10px;">Click here to check my blog!</b>](https://term-inator.github.io/)
 </div>
 
