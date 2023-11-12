@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ## :page_facing_up: Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -63,6 +64,8 @@ Here are some ideas to get you started:
 ## :blue_book: Tech Stack
 
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
