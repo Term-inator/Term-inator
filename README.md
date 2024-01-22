@@ -65,7 +65,11 @@ Here are some ideas to get you started:
 
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Electron](https://img.shields.io/badge/-Electron-000000?style=flat&logo=electron)
 ![Git](https://img.shields.io/badge/-GIT-000000?style=flat&logo=git)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat&logo=pytorch)
